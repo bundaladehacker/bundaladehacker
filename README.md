@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+💡 Talk to me about
+- Web apps Security (Bug bounty)
+- Red teaming
+- Penetration testing
+- Programming
+
 <!--
 **bundaladehacker/bundaladehacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
